@@ -154,8 +154,11 @@ Workflow file:
 ## 📸 Screenshots (Attach in Repository)
 
 ✔ Terraform apply output
+
 ✔ Running EC2 instance
+
 ✔ Application running in browser
+
 ✔ Successful GitHub Actions pipeline
 
 ---
