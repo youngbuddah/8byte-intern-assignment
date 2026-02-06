@@ -154,13 +154,13 @@ Workflow file:
 ## 📸 Screenshots (Attach in Repository)
 
 ✔ Terraform apply output
-!(terraform output screenshot.png)
+![Terraform Apply](terraform-apply.png)
 ✔ Running EC2 instance
-
+![EC2 Running](screenshots/ec2-running.png)
 ✔ Application running in browser
-
+![App Running](screenshots/app-browser.png)
 ✔ Successful GitHub Actions pipeline
-
+![GitHub Actions](screenshots/github-actions.png)
 ---
 
 ## 🔐 Security Best Practices
