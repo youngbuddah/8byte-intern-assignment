@@ -154,7 +154,7 @@ Workflow file:
 ## 📸 Screenshots (Attach in Repository)
 
 ✔ Terraform apply output
-
+!(terraform output screenshot.png)
 ✔ Running EC2 instance
 
 ✔ Application running in browser
@@ -186,7 +186,6 @@ http://<EC2_PUBLIC_IP>:3000
 ## 👨‍💻 Author
 
 **Abhay Bendekar**
-DevOps Intern Candidate
 
 ---
 
