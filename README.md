@@ -1,11 +1,7 @@
 
 
 
-Here’s a **complete, professional, copy-paste-ready `README.md`** for **Task 6** that fully matches your assignment requirements and looks great for recruiters/interviewers.
 
-Just copy everything below into `README.md` 👇
-
----
 
 # 🚀 8byte DevOps Intern Assignment
 
